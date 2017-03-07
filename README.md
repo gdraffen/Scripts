@@ -1,2 +1,3 @@
-# Scripts
-Various powershell/unix/linux scripts
+#!/bin/bash
+
+echo github test
